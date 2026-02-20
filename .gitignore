@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+
+# C/C++
+*.o
+*.exe
+*.out
+
+# Code::Blocks
+*.cbp
+*.workspace
+*.layout
+*.depend
+bin/
+obj/
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# MacOS
+.DS_Store
+
+# Arquivos temporários de teste
+inputs/*
+outputs/*
+
+# Não ignorar o código
+!solutions/

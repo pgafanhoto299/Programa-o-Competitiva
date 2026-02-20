@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1748202549 source:/home/gustavo/Documentos/C++/beecrowd/Strings/criptografia/main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+

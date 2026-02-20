@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1748291706 source:/home/gustavo/Documentos/C++/vjudge/warm/D- Vlad and a Sum of Sum of Digits/main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+
